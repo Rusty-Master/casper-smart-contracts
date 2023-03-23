@@ -1,0 +1,7 @@
+*.asc
+/contract/target
+/contract/Cargo.lock
+/tests/target
+/tests/wasm
+/tests/Cargo.lock
+/ed25519-keys
